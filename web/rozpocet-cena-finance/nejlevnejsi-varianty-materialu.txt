@@ -1,0 +1,34 @@
+✓	= vi se jiste kolik, mnozstvi atd.
+×	= neco se nevi presne
+
+====== ====== dash cluster hw: ====== ======
+✓ brown switche gaterib brown pro 3		 - ---61ks/--499 kc	= cca --8,0 kc/ks		https://allegro.cz/produkt/mechanicka-klavesnice-spinace-gateron-brown-pro-3-0-predmazane-110-ks-1a03a194-59c6-4ab7-bef3-70fca2c897a8?offerId=14999298358&utm_feed=712e6653-4749-4512-b084-b6e297fc9e0b&utm_source=google&utm_medium=cpc&utm_campaign=CZ%3EElectro%3EComputers%3E3P%3EPLA&ev_adgr=Ad%20group%201&ev_campaign_id=22848223665&gad_source=1&gad_campaignid=22848223665&gbraid=0AAAAApZ4Y9TrmTxzg6MMZGhEdpwW566HL&gclid=CjwKCAiAj8LLBhAkEiwAJjbY784zh6GEzndhxq5QKpzX8sBm0vYArJz1veYanQpGR-LRBlIBNPRNLRoCJTwQAvD_BwE
+✓ led pasek (cut ledky) 	 - --144ks/--328 kc	= cca --2,0 kc/ks		https://allegro.cz/produkt/led-pasek-rgb-ws2812b-1m-144-led-m-dc3c2eac-3cc3-4824-8311-bd2b831665b2?offerId=18175233253
+✓ raspberry pico klon usb-c	 - ----1ks/---91 kc	= cca -91,0 kc/ks		https://allegro.cz/produkt/klon-raspberry-pi-pico-yd-rp2040-16mb-flash-usb-c-d5503e8e-5dc2-4e11-9717-2bbc3e3d3597?offerId=13528863155
+× pcb				 - --100ks/2.381 kc	= cca -24,0 kc/ks		https://www.eecart.com/bom/quote?f=PCB
+✓ kabel	usb-c			 - ----1ks/---28 kc	= cca -28,0 kc/ks		https://allegro.cz/produkt/kabel-interlook-usb-usb-3-1-typ-c-1-m-cerny-a2577bd0-b2a2-4526-8d83-5f76b9a739c6?offerId=17851988217
+✓ dupont kabely - samec-samice	 - ---40ks/---35 kc	= cca --0,9 kc/ks		https://allegro.cz/produkt/propojovaci-kabely-samec-samice-20cm-40ks-arduino-dupont-3027b2cd-9eda-4329-a544-413d626328f6?offerId=15247011954
+✓ srouby m2x10mm		 - --500ks/--235 kc	= cca --0,5 kc/ks		https://allegro.cz/produkt/sroub-s-vnitrnim-sestihranem-din-912-m2x10-12-9-cz-pgw-500ks-57ac7d3c-914a-4cdb-af0c-7f86cc6a3e44?offerId=17444176805
+✓ matice m2		 	 - 1.500ks/--353 kc	= cca --0,2 kc/ks		https://allegro.cz/produkt/sestihranne-matice-m2-a2-din-934-1500-ks-48c8c49e-f48a-4401-9ec5-fd7dff724994?offerId=14397397312
+✓ distancni sloupky m2		 - --320ks/--164 kc	= cca --0,5 kc/ks		https://allegro.cz/produkt/320-ks-mosazne-distancni-sloupky-m2-typ-typ-prvku-zde-doplnte-konkretni-typ-fd489c30-2ac8-4b7a-8525-2d9a77b790bf?offerId=14362121772
+✓ resin cerny water-washable	 - ----1ks/--471 kc	= cca --0,5 kc/g		https://allegro.cz/produkt/resin-pro-3d-tiskarnu-anycubic-cerna-1-l-f1f90530-7399-42e5-a667-4560c8b08f5c?offerId=17721442552&utm_feed=712e6653-4749-4512-b084-b6e297fc9e0b&utm_source=google&utm_medium=cpc&utm_campaign=CZ%3EElectro%3EComputers%3E3P%3EPLA&ev_adgr=Ad%20group%201&ev_campaign_id=22848223665&gad_source=1&gad_campaignid=22848223665&gbraid=0AAAAApZ4Y9SlvNwhOINGWjsl09LVzBX1j&gclid=CjwKCAiAybfLBhAjEiwAI0mBBpLs6PQ6fGu00UAi8eJ9-rFaHfY6LwlLUDlDqMhFE-zoMb4K7oLCVBoCoKsQAvD_BwE
+✓ 3 polohovy spinac zapalovani	 - ----1ks/--139 kc	= cca 139,0 kc/ks		https://allegro.cz/produkt/spinac-zapalovani-3-polohy-on-off-start-quad-traktor-sekacka-f2aa7911-b173-413e-b567-5ea15c33551e?offerId=17748141881&utm_feed=712e6653-4749-4512-b084-b6e297fc9e0b&utm_source=google&utm_medium=cpc&utm_campaign=CZ%3EAuto%3EVehicle-Parts-Moto-Accessories%3E3P%3EPMAX&ev_campaign_id=20977861611&gad_source=1&gad_campaignid=20977873899&gbraid=0AAAAApZ4Y9RnPbB8s7FvCidAMubRJhKLK&gclid=CjwKCAiAybfLBhAjEiwAI0mBBkLY5FJhkTdtRjLOvIvBaaYFZn26Dbqju5H8z1E5McXuRuCfqRKn0RoC7b4QAvD_BwE
+
+
+=== mozna potrebne: ===
+✓ expander gpio pinu	 	 - ----1ks/---47 kc	= cca -47,0 kc/ks		https://allegro.cz/produkt/i2c-multiplexer-tca9548a-2ef6a1c9-f65f-42e0-91eb-55106bc5c4ce?offerId=13855602088
+
+
+
+====== ====== dash cluster baleni: ====== ======
+✓ uzaviratelne sacky 		 - --100ks/---16 kc	= cca --0,2 kc/ks		https://allegro.cz/produkt/sacky-se-zipem-100-kusu-100x150mm-35mic-dotts-1d7bc2fc-6cbb-47a3-9a80-9f03ba0c0cb5?offerId=18034558923
+✓ krabice 250x300x150 		 - ---20ks/--153 kc	= cca --7,7 kc/ks		https://allegro.cz/produkt/klopova-krabice-ironpack-300x250x150-mm-380-g-m2-20-ks-e44f0985-aa2f-449a-a58b-0b9b1fd2d159?offerId=17178839794
+✓ samolepici papir etiketa 	 - --100ks/--119 kc	= cca --1,1 kc/ks		https://allegro.cz/produkt/samolepici-etikety-a4-100-listu-210x297-mm-54b9d00f-b23f-450f-a1e0-0376e6e08632?offerId=17058006928
+✓ fleska 4gb (darek a navod) 	 - ----1ks/---73 kc	= cca -73,0 kc/ks		https://allegro.cz/nabidka/flashdisk-prenosny-cerny-4gb-2-0-15097501285?context=f2fca9e907985b5b6193b238b6a4731e0a218b5dba9a6378eda5c09d69739c675a24584052be1238a92f3f5d4d3cbee10271a3203a8ccb6722afb88265da1621d94036a72a946db354a8a6269d14f89129cd5b376e028a793d9926ac79e48f9c625423c6dc78be09a56876a37507ad6bb81779aabac3e0bba1eaa33e553ab57b35fcec81c659f53bd2dd30ba70238760&sellerHasChanged=false&fromVariant=15097529032
+
+=== nezapocitava se do kusove ceny ===
+✓ cin na pajeni			 - --1ks/---29 kc	= cca -29,0 kc/ks		https://allegro.cz/produkt/cin-1-mm-s-kalafunou-35244-b053370a-1492-475c-88c2-6f9736ebe0e1?offerId=16565786044
+✓ kalafuna na pajeni		 - --1ks/---32 kc	= cca -32,0 kc/ks		https://allegro.cz/produkt/kalafuna-pro-mekke-pajeni-45g-cynel-tavidlo-pajeci-pro-bga-smd-8c0f72c9-f85d-49bf-811b-fc513359a905?offerId=6359124042
+
+
+× pcb = pocitano nahrubo s 100x150mm deskou a standart tloušťkou, dvouvrstve,  (na vyzkouseni 5ks stoji cca 345kc na eecart (tj. 69kc/deska), 100 kusu uz tam je za 2381kc (tj. 24kc/deska), ve vypisu pocitam s tim, ze uz koupime vetsi mnozstvi - tudiz 24kc/ks)
